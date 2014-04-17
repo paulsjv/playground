@@ -21,6 +21,10 @@ grunt task manager
 http://gruntjs.com/
 
 grunt tutorial
+http://gruntjs.com/getting-started
+* How to load tasks
+* How to load custom tasks
+
 http://howtonode.org/simplifying-chores-with-grunt
 ```
 npm install -g grunt-cli
